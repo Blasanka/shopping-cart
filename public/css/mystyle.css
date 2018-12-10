@@ -1,0 +1,21 @@
+.thumbnail img {
+    max-height: 150px;
+    max-width: 200px;
+}
+
+.thumbnail .preview-text {
+    color: #444444;
+    text-align: justify;
+    /* display: block; 
+    text-overflow: ellipsis;
+    word-wrap: break-word;
+    overflow: hidden;
+    max-height: 3.6em;
+    line-height: 1.8em; */
+}
+
+.thumbnail .item-price {
+    font-size: 1.4em;
+    font-weight: 600;
+    padding: 2px;
+}
